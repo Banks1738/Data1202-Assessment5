@@ -34,7 +34,7 @@ import matplotlib.pyplot as plt
 
 ## Screenshots
 
-![App Screenshot](https://ibb.co/d5PzWBp)
+![](screenshots/SC.png
 
 
 
