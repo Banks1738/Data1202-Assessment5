@@ -34,7 +34,7 @@ import matplotlib.pyplot as plt
 
 ## Screenshots
 
-![](screenshots/SC.png
+![](screenshots/SC.png)
 
 
 
